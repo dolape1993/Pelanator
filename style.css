@@ -61,10 +61,13 @@ body {
     font-size: 17px;
 }
 
-.button2:hover {
-    background-color: green;
+.button3:hover {
+    background-color: darkblue;
 }
 
+.emoji{
+    height: 50%;
+}
 .footer {
     position: absolute;
     width: 100%;
